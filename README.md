@@ -9,11 +9,11 @@ For a full code conventions please visit [Code Conventions for the Java TM Progr
 
 # Table of contents
 
-* [Use a consistent style]()
-    * [Naming Conventions]()
-    * [Comments]()
-    * [Declarations]()
-    * [Statements]()
+* [Use a consistent style](#use-a-consistent-style)
+    * [Naming Conventions](#naming-conventions)
+    * [Comments](#comments)
+    * [Declarations](#declarations)
+    * [Statements](#statements)
 
 
 ## Use a consistent style
